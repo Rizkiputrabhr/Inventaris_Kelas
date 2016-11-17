@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "661712577073",
+    "firebase_url": "https://inventaris-537d3.firebaseio.com",
+    "project_id": "inventaris-537d3",
+    "storage_bucket": "inventaris-537d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661712577073:android:1c03f14e93d4e1dd",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.project.xiirpl401112131.inventariskelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661712577073-enn24ond61cj4bkm3j5ebp8isr1p28kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQQsEuM29sQpox6OAKAFlmMxzx-FL4RsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
